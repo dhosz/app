@@ -8,7 +8,6 @@ body {
 }
 
 .card {
-    background-color: #6b7280;
     justify-items: center;
     margin-top: 20vh;
     border-radius: 10px;
@@ -40,7 +39,7 @@ body {
 }
 
 .card-back {
-    background-color: #2980b9;
+    background-color: #6b7280;
     color: white;
     transform: rotateY(180deg);
 }
